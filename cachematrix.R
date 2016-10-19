@@ -1,6 +1,6 @@
 ## Course : Coursera - R Programming
 ## Programming Assignment 2
-## Author: Nitin Kaul
+## Author:Alberto Benito
 ### Function Descriptions ###
 ## makeCacheMatrix - function creates a matrix and sets inverse calculation in cache
 ## cacheSolve - function computes inverse of matrix
